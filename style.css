@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    background: linear-gradient(60deg, #00d4ff, #095b79);     
+}
+
+button {
+    padding: 15px;
+    background-color: #052f3f;
+    color: white;
+    border-radius: 15px;
+    border: none;   
+    margin: 0 auto;
+}
+
+button:hover {
+    background-color: #000101;
+   
+}
+
+#cardHolder {
+    margin-top: 7rem;
+}
+
+#cardHolder > img {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
